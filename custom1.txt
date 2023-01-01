@@ -1,0 +1,3 @@
+# https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
+
+events.data.microsoft.com
