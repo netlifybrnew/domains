@@ -1,3 +1,8 @@
+
+
 # https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
 
 events.data.microsoft.com
+mb.resolver.msg.global.xiaomi.net 
+idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
+www.baidu.com
