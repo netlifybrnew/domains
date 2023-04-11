@@ -6,3 +6,4 @@ events.data.microsoft.com
 mb.resolver.msg.global.xiaomi.net 
 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
 www.baidu.com
+bimbim.com
